@@ -2,7 +2,7 @@ FROM hashicorp/terraform:0.11.11
 
 LABEL "com.github.actions.name"="terraform apply"
 LABEL "com.github.actions.description"="Run terraform apply"
-LABEL "com.github.actions.icon"="book-open"
+LABEL "com.github.actions.icon"="download-cloud"
 LABEL "com.github.actions.color"="purple"
 
 LABEL "repository"="https://github.com/hashicorp/terraform-github-actions"
