@@ -18,3 +18,6 @@ Runs `terraform validate` and comments back on error.
 ### Plan Action
 Runs `terraform plan` and comments back with the output.
 <img src="./assets/plan.png" alt="Terraform Plan Action" width="80%" />
+
+### Apply Action
+Runs `terraform apply` and comments back with the output.
